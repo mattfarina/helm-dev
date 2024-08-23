@@ -1,0 +1,6 @@
+name: "dev"
+version: "0.0.1"
+usage: "Get insights into Helm internals"
+description: |-
+  This plugin helps with the development of Helm itself.
+command: "$HELM_PLUGIN_DIR/bin/helm-dev"
